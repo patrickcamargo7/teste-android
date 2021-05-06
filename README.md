@@ -1,5 +1,3 @@
-![Easynvest](https://camo.githubusercontent.com/c4ee611d69893fec43b903eb88a444530eaf8e7f/68747470733a2f2f7777772e656173796e766573742e636f6d2e62722f66617669636f6e2e69636f)
-
 # Teste de Android Developer
 Este teste é apresentado aos candidatos as vagas de Android Developer para avaliar os quesitos técnicos.
 
